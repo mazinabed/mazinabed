@@ -23,7 +23,7 @@ let resumeData = {
         }
       ],
     "aboutme":"Full Stack Web Developer with a demonstrated history of working in Logistics and warehouse industry. 10 years of experience in the transportation, trucking and warehouse management  systems. Skilled in Customer Service, Microsoft Office, SAP, Oracle, frontend-backend web developer. Strong leadership skills. ",
-    "address":"Austin,TX",
+    "address":"Woodinville, WA",
     //"website":"https://rbhatia46.github.io",
     "education":[
       {
@@ -42,6 +42,13 @@ let resumeData = {
       }
     ],
     "work":[
+      {
+        "CompanyName": "2U.Inc",
+        "specialization": "Senior Tutor, WEb Developer",
+        "MonthOfLeaving":"05/01/2020",
+        "YearOfLeaving":"Present",
+        "Achievements":"As a tutor I do one-on-one remote tutorial sessions that conducted using screen sharing with a video conferencing web app. Tutoring involves discussing coding, live coding, re- viewing code. In addition to tutoring, I also provide encouragement, mentorship, and sup- port for upset, struggling students."
+      },
       {
         "CompanyName":"Ryder.inc",
         "specialization":"CLS Customer Logistics supervisor",
